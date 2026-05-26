@@ -47,7 +47,7 @@
 
 ## Output:
 
-<img width="639" height="324" alt="Screenshot 2026-05-21 202020" src="https://github.com/user-attachments/assets/bc43e463-51a4-498d-baae-9a2f1f09e642" />
+<img width="1919" height="1033" alt="image" src="https://github.com/user-attachments/assets/7d63c438-ad5f-4a4c-b194-25694cb0406a" />
 
 <img width="634" height="310" alt="Screenshot 2026-05-21 202627" src="https://github.com/user-attachments/assets/d979596e-311a-498b-ac5a-5e43798eb6a7" />
 
